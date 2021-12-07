@@ -1,0 +1,12 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+div {
+    padding-bottom: 30px;
+}
+#counter {
+    padding-top: 20px;
+}
+
